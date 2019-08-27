@@ -1,0 +1,17 @@
+C:\Users\GG201305000009\source\repos\Test$\Test$\bin\Debug\Test$.exe.config
+C:\Users\GG201305000009\source\repos\Test$\Test$\bin\Debug\Test$.exe
+C:\Users\GG201305000009\source\repos\Test$\Test$\bin\Debug\Test$.pdb
+C:\Users\GG201305000009\source\repos\Test$\Test$\obj\Debug\Test$.csprojAssemblyReference.cache
+C:\Users\GG201305000009\source\repos\Test$\Test$\obj\Debug\Test_.Form1.resources
+C:\Users\GG201305000009\source\repos\Test$\Test$\obj\Debug\Test_.Properties.Resources.resources
+C:\Users\GG201305000009\source\repos\Test$\Test$\obj\Debug\Test$.csproj.GenerateResource.cache
+C:\Users\GG201305000009\source\repos\Test$\Test$\obj\Debug\Test$.csproj.CoreCompileInputs.cache
+C:\Users\GG201305000009\source\repos\Test$\Test$\obj\Debug\Test$.exe
+C:\Users\GG201305000009\source\repos\Test$\Test$\obj\Debug\Test$.pdb
+C:\Users\GG201305000009\source\repos\Test$\Test$\bin\Debug\MySql.Data.dll
+C:\Users\GG201305000009\source\repos\Test$\Test$\bin\Debug\Google.Protobuf.dll
+C:\Users\GG201305000009\source\repos\Test$\Test$\bin\Debug\MySql.Data.xml
+C:\Users\GG201305000009\source\repos\Test$\Test$\obj\Debug\Test$.csproj.CopyComplete
+C:\Users\GG201305000009\source\repos\Test$\Test$\obj\Debug\Test_.join.resources
+C:\Users\GG201305000009\source\repos\Test$\Test$\obj\Debug\Test_.log.resources
+C:\Users\GG201305000009\source\repos\Test$\Test$\obj\Debug\Test_.intro.resources
